@@ -1,2 +1,2 @@
-# calender
-creating a simple calender using c progamming
+# calendar
+creating a simple calendar using c progamming
